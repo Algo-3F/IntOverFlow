@@ -1,8 +1,8 @@
 # IntOverFlow
 
-Research: Data_Structs and Algorithms.
+Research: Data Structs and Algorithms.
 
-Language_Standard: C++14.
+Language Standard: C++14.
 
 Compile: GCC9.3.0.
 
