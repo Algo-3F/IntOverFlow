@@ -37,7 +37,7 @@ void kmp(string s, string p)
 
     nxttab(p);
 
-    while ((i < lens) && (j < lenp))
+    for ( ; (i < lens) && (j < lenp) ; )
     {
         if ((j < 0) || (s[i] == p[j]))
         {
@@ -65,12 +65,12 @@ int main()
 
     kmp(s, p);
 
-    for (int i = 0; i < ans.size(); i++)    // 输出匹配位置
+    for (int i(0); i < ans.size(); i++)
     {
         cout << ans[i] << endl;
     }
 
-    for (int i = 1; i < nxt.size(); i++)   // 输出 border 数组
+    for (int i(1); i < nxt.size(); i++) 
     {
         cout << nxt[i] << " ";
     }
