@@ -17,7 +17,7 @@ git clone https://github.com/Algo-3F/IntOverFlow/
 Run this in your Terminal.
 
 > Maybe some code isn't called `main.cpp`, you should write the name of that code.  
-`-static` is an optional parameter, if you don't like it, you can delete it.
+`-O2` and `-static` is optional parameters, if you don't like them, you can delete them.
 
 ```sh
 g++ main.cpp -o main -std=c++14 -O2 -static
