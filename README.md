@@ -9,7 +9,7 @@ I like Data Structures and Algorithms.
 Run this in your Terminal.
 
 ```sh
-git clone https://githubfast.com/Algo-3F/IntOverFlow/
+git clone https://github.com/Algo-3F/IntOverFlow/
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ g++ main.cpp -o main -std=c++14 -O2 -static
 
 ## Maintainers
 
-[@Algo_3F](https://githubfast.com/Algo-3F/).
+[@Algo_3F](https://github.com/Algo-3F/).
 
 ## License
 
