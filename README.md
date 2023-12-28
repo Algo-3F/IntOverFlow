@@ -2,7 +2,7 @@
 
 ## Background
 
-I like Data_Structures and Algorithms.
+I like Data Structures and Algorithms.
 
 ## Install
 
@@ -16,7 +16,7 @@ git clone https://github.com/Algo-3F/IntOverFlow/
 
 Run this in your Terminal.
 
-Maybe it isn't called `main`, you should write the name of that code.
+Maybe the code isn't called `main.cpp`, you should write the name of that code.
 
 `-static` is an optional parameter, if you don't like it, you can delete it.
 
