@@ -1,9 +1,13 @@
 # IntOverFlow
 
-$\Large{\mathtt{Algo\_3F}}$
+$\mathtt{Algo\_3F}$
 
-Research: Data Structs and Algorithms.
+Data Structs and Algorithms
 
-Standard: C++14.
+Compile: GCC9.3.0
 
-Compile: GCC9.3.0.
+Standard: C++14
+
+Optimime: O2
+
+Dynamic / Static: Static
