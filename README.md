@@ -9,14 +9,14 @@ I like Data Structures and Algorithms.
 Run this in your Terminal.
 
 ```sh
-git clone https://github.com/Algo-3F/IntOverFlow/
+git clone https://githubfast.com/Algo-3F/IntOverFlow/
 ```
 
 ## Usage
 
 Run this in your Terminal.
 
-Maybe the code isn't called `main.cpp`, you should write the name of that code.
+Maybe some code isn't called `main.cpp`, you should write the name of that code.
 
 `-static` is an optional parameter, if you don't like it, you can delete it.
 
@@ -26,7 +26,7 @@ g++ main.cpp -o main -std=c++14 -O2 -static
 
 ## Maintainers
 
-[@Algo_3F](https://github.com/Algo-3F/).
+[@Algo_3F](https://githubfast.com/Algo-3F/).
 
 ## License
 
